@@ -5,7 +5,6 @@ This project was created by a team of 4 people:<br>
 - 🟩 Ananga Bajgai 
 - 🟨 Mohamed Mustafa 
 - 🟧 Austin Yu
-<br>
 
 # A Quick Note
 Original repository is a private repository school Github account owned by Professor Saba Alimadadi. This project is a copy of the our original project; original commits and project history is not shown on this GitHub account.
