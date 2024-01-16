@@ -32,7 +32,7 @@ Oh wait, that's just my profile. Aside from tech and programming, one of my pass
 </p>
 
 <p align="center">
-<img align="center" src="https://github.com/annieboltwood/Cosmic-Escape/blob/main/Game/src/main/resources/images/key1.PNG?raw=true" alt="Image3" height="25%" width="25%"/></a>
+<img align="center" src="https://github.com/annieboltwood/Cosmic-Escape/blob/main/Game/src/main/resources/images/key1.PNG?raw=true" alt="Image3" height="15%" width="15%"/></a>
 </p>
 
 
