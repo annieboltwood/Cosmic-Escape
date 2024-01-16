@@ -24,11 +24,11 @@ The stock images used for the pixel art come from...
 Oh wait, that's just my profile. Aside from tech and programming, one of my passions is art and design. I drew the Cosmic Escape characters, barriers, and collectibles which I will also showcase a few of below. 
 
 <p align="center">
-<img align="center" src="https://github.com/annieboltwood/Cosmic-Escape/blob/main/Game/src/main/resources/images/character.PNG?raw=true" alt="Image1" height="25%" width="25%" /></a>
+<img src="https://github.com/annieboltwood/Cosmic-Escape/blob/main/Game/src/main/resources/images/character.PNG?raw=true" alt="Image1" height="25%" width="25%" /></a>
 
-<img align="center" src="https://github.com/annieboltwood/Cosmic-Escape/blob/main/Game/src/main/resources/images/movingEnemy.png?raw=true" alt="Image2" height="25%" width="25%"/></a>
+<img src="https://github.com/annieboltwood/Cosmic-Escape/blob/main/Game/src/main/resources/images/movingEnemy.png?raw=true" alt="Image2" height="25%" width="25%"/></a>
 
-<img align="center" src="https://github.com/annieboltwood/Cosmic-Escape/blob/main/Game/src/main/resources/images/key1.PNG?raw=true" alt="Image3" height="25%" width="25%"/></a>
+<img src="https://github.com/annieboltwood/Cosmic-Escape/blob/main/Game/src/main/resources/images/key1.PNG?raw=true" alt="Image3" height="25%" width="25%"/></a>
 </p>
 
 
