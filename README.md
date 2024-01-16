@@ -12,7 +12,7 @@ Original repository is a private repository school Github account owned by Profe
 # You Ready?
 Time to dive in!<br>
 - 📂 The game files are located in the: [Game Directory](https://github.com/annieboltwood/Cosmic-Escape/tree/main/Game) 
-- 🛸 Aliens? Meteors? To learn about the Cosmic Escape universe and how to run the game:[Click Here!](https://github.com/annieboltwood/Cosmic-Escape/blob/main/Game/README.md)
+- 🛸 Aliens? Meteors? To learn about the Cosmic Escape universe and how to run the game: [Click Here!](https://github.com/annieboltwood/Cosmic-Escape/blob/main/Game/README.md)
 - 📈 Let's get technical. Our reports are located in the: [Documents Directory](https://github.com/annieboltwood/Cosmic-Escape/tree/main/Documents)
 - 🖌 How did this game come to be? Behind the scenes and planning: [Design Directory](https://github.com/annieboltwood/Cosmic-Escape/tree/main/Design)
 
